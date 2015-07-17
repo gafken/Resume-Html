@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+		<title></title>
+	</head>
+	<body>
+		<div id="header">
+			<p id="name">Robert Gafken</p>
+			<a href="mailto:robertgafken8@gmail.com"><p id="email">robertgafken8@gmail.com</p></a>
+		</div>
+		<div class="left"></div>
+		<div class="right">
+			<h4>Objective</h4>
+			<p>To take a position as a software engineer.</p>
+			<h4>Experience</h4>
+			<p>3 years semi professional coding experience, University of Michigan - Flint(2012 - Present)</p>
+			<ul>
+				<li>Trained myself to learn how to program in multiple languages, while also learning other languages on my own time.</li>
+				<li>Assisted other classmates struggling figuring out how the methods work and to properly apply syntax</li>
+			</ul>
+			<p>Coding Bootcamp, Grand Circus(10 weeks)</p>
+			<ul>
+				<li>Course taken to provide myself with real-world and collaboration experience</li>
+				<li>Quickly adapted to a role to assist others learning how to program C for the firt time</li>
+			</ul>
+			<h4>Skills</h4>
+			<p>Languages: C#, C++, Html, JavaScript, Python, Unix, Java</p>
+			<p>Frameworks: .NET,</p>
+		</div>
+		<div id="footer">
+			<p>5800 Quain rd, Emmett, MI 48022 | Tel: (810) 304-1266</p>
+			<p>(Willing to move.)</p>
+		</div>
+	</body>
+</html>
